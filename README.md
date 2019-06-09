@@ -5,7 +5,7 @@ In this project i learned how to read and write to files in c++ and how to modif
 
 <h3>In this phone book you can :</h3>
 <ul>
-  <li>choose how many contacts are showing/li>
+  <li>choose how many contacts are showing</li>
   <li>change colors of texts and backgrounds</li>
   <li>show contacts</li>
   <li>add a contact</li>
