@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1491239767 source:p:\aplikacje\projekt\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<fstream>
+
+1491289397 source:c:\users\admin\desktop\projekt na pp\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<fstream>
+
+1493583502 source:y:\szko³a\projekt na pp\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	<fstream>
+
+1493019896 source:f:\szko³a\projekt na pp\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	<fstream>
+
+1493375648 source:g:\szko³a\projekt na pp\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	<fstream>
+
+1494750600 source:c:\users\mystry\desktop\projektc++\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	<fstream>
+

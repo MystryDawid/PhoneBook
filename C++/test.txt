@@ -1,0 +1,8 @@
+Daniel;Pawel;Nowy Sacz;123123123;
+Daniel;Barbara Anna;Limanowa;123123123;
+Daniel;Daniel;Limanowa;123123123;
+Gamon;Dawid;Lukowica;333444555;
+Kulak;Anna;Olszana;555666777;
+Kwit;Lucyna Anna;Nowy Sacz;999888777;
+Kulak;Jakek;Olszana;555777666;
+Test;Test;Test Test;123123123;
