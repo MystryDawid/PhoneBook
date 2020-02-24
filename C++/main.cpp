@@ -6,15 +6,10 @@
 #include <fstream>
 
 
-//wyszukiwanie
-//edycja
-// problem ze strzalkami w wpisywaniu(pojawiaja sie litery)
-//oraz wybieranie
-//wyglad
 
 using namespace std;
 CONSOLE_SCREEN_BUFFER_INFO csbi;// Zawiera informacje o buforze ekranu konsoli.
-HANDLE uchwytDoKonsoli = GetStdHandle( STD_OUTPUT_HANDLE );//Pobiera uchwyt do okreúlonego urzπdzenia (standardowe wejúcie, standardowe wyjúcie, standardowe wyjúcie b≥ÍdÛw).
+HANDLE uchwytDoKonsoli = GetStdHandle( STD_OUTPUT_HANDLE );//Pobiera uchwyt do okre≈õlonego urzƒÖdzenia (standardowe wej≈õcie, standardowe wyj≈õcie, standardowe wyj≈õcie b≈Çƒôd√≥w).
 
 
 class kontakt{
